@@ -93,10 +93,10 @@ MonoBehaviour:
     y: 30
     width: 2544
     height: 1291
-  m_MinSize: {x: 910, y: 442}
-  m_MaxSize: {x: 22005, y: 10021}
+  m_MinSize: {x: 911, y: 442}
+  m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 145
+  controlID: 143
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 103
+  controlID: 35
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,8 +267,8 @@ MonoBehaviour:
     y: 663
     width: 881
     height: 628
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -368,7 +368,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 66dfffff86dfffff2ce0ffffdee0ffffe2e0fffff6e0ffff16e1ffff96f4ffff98f4ffff20faffff70fbffff
+      m_ExpandedIDs: 4056ffff6056ffff0657ffffb857ffffbc57ffffd257fffff257ffff6474ffff8474ffff2a75ffffdc75ffffe075fffff475ffff1476ffffc6faffff70fbffff06400000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -469,34 +469,34 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Question_Prefab
+    - Assets/Script/Q3C#
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Question_Prefab
+  - Assets/Script/Q3C#
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\GGsLeisureTime\Lion_UnityCSharp_Exam_08\Lion_UnityCSharp_Exam_08
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 50350000
-    m_LastClickedID: 13648
-    m_ExpandedIDs: 0000000006350000083500000a3500000c35000000ca9a3b
+    m_SelectedIDs: 76340000
+    m_LastClickedID: 13430
+    m_ExpandedIDs: 000000002a3400002c3400002e3400003034000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Q2C#
-      m_OriginalName: Q2C#
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 13654
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
@@ -510,7 +510,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000006350000083500000a3500000c350000
+    m_ExpandedIDs: 000000002a3400002c3400002e34000030340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
