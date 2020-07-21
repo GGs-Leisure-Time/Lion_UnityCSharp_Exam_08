@@ -4,15 +4,6 @@ using UnityEngine.SceneManagement;
 
 public class Q2UIButton : MonoBehaviour
 {
-    public void BackQ()
-    {
-        SceneManager.LoadScene("Question1");
-    }
-
-    public void NextQ()
-    {
-        SceneManager.LoadScene("Question3");
-    }
 
     private void Update()
     {

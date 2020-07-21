@@ -2,17 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class SoundManager : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public Runner runner;
+    private AudioSource aud;
+
     void Start()
     {
-        
+        runner.arrive += EndSound ;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void EndSound()
     {
-        
+        aud = GameObject.FindGameObjectWithTag("SoundManager").GetComponent<AudioSource>();
+        aud.Play(); 
     }
 }

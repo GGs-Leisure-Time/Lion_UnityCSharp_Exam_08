@@ -25,16 +25,6 @@ public class GameManager : MonoBehaviour
         FindObjectOfType<Runner>().enabled = false;
     }
 
-    public void BackQ()
-    {
-        SceneManager.LoadScene("Question3");
-    }
-
-    public void NextQ()
-    {
-        SceneManager.LoadScene("Question5");
-    }
-
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.O))
